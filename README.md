@@ -1,6 +1,2 @@
-# AIML-lab-1
-# AIML-lab-2
-# AIML-lab-3
-# AIML-lab-4
-# AIML-lab-5
-# AIML-lab-6
+##AIML
+[LAB--01] (https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_01.ipynb)
