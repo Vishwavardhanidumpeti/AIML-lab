@@ -13,3 +13,5 @@
 
 6.[LAB=06](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_lab_06.ipynb)
 
+7.[LAB-07](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/lab_07.ipynb)
+
