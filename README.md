@@ -1,3 +1,4 @@
+
 #AIML
 
 1.[LAB-01](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_01.ipynb)
@@ -9,4 +10,6 @@
 4.[LAB-04](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_04.ipynb)
 
 5.[LAB-05](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_05.ipynb)
+
+6.[LAB=06](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_lab_06.ipynb)
 
