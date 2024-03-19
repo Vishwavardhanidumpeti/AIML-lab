@@ -6,3 +6,5 @@
 
 3.[LAB-03](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_03.ipynb)
 
+4.[LAB-04](https://github.com/Vishwavardhanidumpeti/AIML-lab/blob/main/Aiml_Lab_04.ipynb)
+
